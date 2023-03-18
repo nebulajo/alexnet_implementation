@@ -63,7 +63,7 @@ nn.Conv2d(in_channels = 384, out_channels = 256, kenerl_size = (3, 3), stride = 
 
 - kernel_size = 3, stride = 2
 
-![8D8C510B-41CF-4F4E-A5E4-6943F7BC18E5.jpeg](alexnet_img/8D8C510B-41CF-4F4E-A5E4-6943F7BC18E5.jpeg)
+![8D8C510B-41CF-4F4E-A5E4-6943F7BC18E5.jpeg](alexnet_img/8D8C510B-41CF-4F4E-A5E4-6943F7BC18E5.jpeg){: width="100" height="100"}
 
 ```python
 nn.MaxPool2d(kernel_size = 3, stride = 2)
