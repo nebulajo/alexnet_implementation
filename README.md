@@ -1,7 +1,3 @@
-# [구현] AlexNet
-
-날짜: 2023년 3월 18일
-태그: alexnet
 
 # AlexNet Implementation
 
@@ -153,3 +149,6 @@ class AlexNet(nn.Module):
 ## Notice !!
 
 AlexNet의 마지막 fc_layer의 out_features의 경우 사용하는 데이터셋의 클래스 수에 맞춰서 설정해야 한다. 본 코드에서는 1000으로 설정되어 있으며 만약 클래스가 2인 경우 out_features = 2로 수정해야 한다.
+
+### Reference
+* ImageNet Classification with Deep Convolutional Neural Networks
