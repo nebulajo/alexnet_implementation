@@ -152,3 +152,4 @@ AlexNet의 마지막 fc_layer의 out_features의 경우 사용하는 데이터�
 
 ### Reference
 * ImageNet Classification with Deep Convolutional Neural Networks
+* https://pytorch.org/
