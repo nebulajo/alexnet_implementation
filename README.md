@@ -93,7 +93,7 @@ nn.Linear(in_features = 4096, out_features = 1000)
 
 ## Dropout
 
-![1F212684-CD8F-4C37-9FF9-2EF3261AD99D](https://user-images.githubusercontent.com/126544082/229358176-0032c8c6-f647-43ef-aa5f-e67aa6bfff4b.jpeg)
+![74C409AA-BAFF-40E2-B034-20D297A00BC0.jpeg](alexnet_img/74C409AA-BAFF-40E2-B034-20D297A00BC0.jpeg)
 
 ## AlexNet Class
 
